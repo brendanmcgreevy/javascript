@@ -34,5 +34,5 @@ module.exports = {
     firstName: 'Bo',
     lastName: 'Hansson',
     genre: 'Rock',
-  },
+  }
 };
